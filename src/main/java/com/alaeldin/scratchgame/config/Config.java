@@ -7,7 +7,6 @@ package com.alaeldin.scratchgame.config;
 import com.alaeldin.scratchgame.model.Symbol;
 import com.alaeldin.scratchgame.model.WinCombination;
 import com.fasterxml.jackson.annotation.JsonProperty;
-
 import java.util.Map;
 
 public class Config {

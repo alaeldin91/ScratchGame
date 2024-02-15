@@ -2,7 +2,6 @@ package com.alaeldin.scratchgame.config;
 
 import com.alaeldin.scratchgame.model.Probability;
 import com.fasterxml.jackson.annotation.JsonProperty;
-
 import java.util.List;
 
 public class ProbabilityConfig {

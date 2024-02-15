@@ -3,7 +3,6 @@ package com.alaeldin.scratchgame.config;
 import com.alaeldin.scratchgame.model.BonusSymbol;
 import com.alaeldin.scratchgame.model.StandardSymbol;
 import com.fasterxml.jackson.annotation.JsonProperty;
-
 import java.util.Map;
 
 public class SymbolsConfig {
